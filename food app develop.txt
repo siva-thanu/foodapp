@@ -1,0 +1,11 @@
+1. login
+
+2. select area
+
+3. select hotel
+
+4. select food items
+
+5. payment
+
+6.delivery
