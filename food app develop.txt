@@ -9,3 +9,5 @@
 5. payment
 
 6.delivery
+
+7. adding location tracker
